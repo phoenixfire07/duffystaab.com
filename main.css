@@ -1,0 +1,69 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Aashi - Lawyers Listing and Law Firm Html Template
+Version:	1.0.0
+Assigned to:	Themeforest
+Primary use:	Lawyers, Attorneys, Advocates, Barristers, Legal Advisers, Legal offices  
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Body / body
+2. Common Css
+	2.1 Reset Elements / img
+	2.2 Form Inputs / input
+	2.3 Blockquote / blockquote
+	2.4 Button Style / .wa-button
+	2.5 Padding Style / .padT0
+	2.6 Margin Style / .marT0
+3. Header Style
+	3.1 Top Bar / #top-bar
+	3.2 Nav Bar / .wa-main-menu  
+4. Page Header / .static-banner-caption
+5. Heading Style / .wa-heading-style1
+6. Services Box / .wa-box-style1
+7. Default Boxes / .wa-theme-design-block 
+8. Listing Grid Caption / .member-detail
+9. Listing List Caption / .news-caption
+10. Testimonial style / .testimonial-block-style1
+11. Blog Caption / .meta-block
+12. Our Client Carousel / .wa-partner-carousel
+13. Social icon / .social
+14. Background image / .special-style 
+15. Fun Facts / .fun-fact-section
+16. Error Page / .error
+17. FAQs Section / .faqs-accordion
+18. Sidebar Style / .sidebar
+19. Comment Area / .reviews-container
+20. Owl Carousel Style / .owl-pagination
+21. Pagination / .styled-pagination
+22. Login Page / .login-page
+23. Preloader Style / .preloader
+24. Common pages / .figure-caption
+25. Widget Style / .widget
+26. Footer Style / #main-footer
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[All Import Css]
+-------------------------------------------------------------------*/
+
+/* Bootstrap core CSS*/
+@import url("assets/css/bootstrap.min.css");
+
+
+/*Plugins CSS */	
+@import url("assets/plugins/font-awesome/css/font-awesome.min.css");
+@import url("assets/plugins/iconfont/iconfont.css");
+@import url("assets/plugins/menu/css/hover-dropdown-menu.css");
+@import url("assets/plugins/owl-carousel/css/owl.carousel.css"); 
+@import url("assets/css/jquery-ui.css");
+
+/*Defaults CSS SETTINGS */	
+@import url("assets/css/style.css");
+
+/*Template Media Query CSS */
+@import url("assets/css/responsive.css");
